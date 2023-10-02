@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSlabby, or Walker
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning at Auburn University
+- 👀 I’m interested in software design and embedded engineering.
+- 🌱 I’m currently learning at Auburn University.
 
 <!---
 TheSlabby/TheSlabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
