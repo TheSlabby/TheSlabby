@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TheSlabby, or Walker
-- 👀 I’m interested in software design and embedded engineering.
-- 🌱 I’m currently learning at Auburn University.
+# Walker McGilvary
 
-<!---
-TheSlabby/TheSlabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome to my GitHub! 👋
+
+I'm a Computer Engineering student at Auburn University, with a passion for coding and a mind for innovation. I'm all about exploring the boundaries of technology, especially in the realms of computer graphics using C++ and OpenGL. I have a very strong background in Lua programming and game design with ROBLOX Studio, and have developed multiple experiences with thousands of visits.
+
+### What I'm Up To
+- 🌱 Currently deep-diving into the intricacies of computer graphics and OpenGL.
+- 👨‍💻 Exploring the dynamic world of cybersecurity, from penetration testing to forensic analysis.
